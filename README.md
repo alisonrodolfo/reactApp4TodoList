@@ -12,6 +12,7 @@ Alterar o código-fonte da aplicação TODO (https://snack.expo.io/Sk7mMxbnV) pa
 1 - Configurar e utilizar um projeto/app próprio no Firebase;  ✅
 
 2 - Tirar a dependencia de DatePickerAndroid e TimePickerAndroid para a aplicação funcionar em qualquer plataforma; ✅
+
 Foi usado: https://docs.expo.io/versions/latest/sdk/date-time-picker/
 
 <h4 class="css-1l3zmkw" data-heading="true">Platform Compatibility</h4>
@@ -31,6 +32,7 @@ Foi usado: https://docs.expo.io/versions/latest/sdk/date-time-picker/
 </table>
 
 3- Implementar em "screens/Login.js" o uso de Redux. O código de acesso ao Firebase deve ser removido; ✅
+
 4 - Estudar e implementar algum recurso do Thunk no aplicativo; ✅ 
 ```jsx
 // redux-thunk é um middleware que permite que as ações do Redux retornem operações assíncronas
