@@ -19,7 +19,7 @@
     "react-navigation": "2.5.1",
     "redux": "^4.0.0-0",
     "moment": "2.22.2",
-    "firebase": "5.1.0",
+    "firebase": "10.9.0",
     "react-redux": "5.0.7",
     "react-thunk": "latest",
     "redux-thunk": "latest",
